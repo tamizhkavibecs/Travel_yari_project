@@ -1,0 +1,7 @@
+body{
+    background: linear-gradient(45deg,blue,yellow);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar{
+    background: linear-gradient(45deg,yellow,blue);
+}
